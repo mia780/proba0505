@@ -3,3 +3,4 @@ galamb
 veréb
 rozsdafark
 varjú
+pingvin
